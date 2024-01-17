@@ -1,0 +1,1 @@
+Stocks deal with huge volumes of data which is accessed very often by users to trade. This database management system is intented to provide users with easier access to stock prices and other information required to trade.
